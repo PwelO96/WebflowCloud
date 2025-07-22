@@ -37,7 +37,7 @@ export default function Home() {
             Welcome to Webflow Cloud
           </h1>
           <Block tag="p" className="margin-bottom-24px">
-            This is a simple test using Basic components with enhanced styling.
+            This is a simple test using Basic components with enhanced stylin.
           </Block>
           <div style={{ marginTop: "12px" }}>
             <Link
